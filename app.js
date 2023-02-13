@@ -50,3 +50,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   ];
 });
+
+const cuadricula = document.querySelector("cuadricula");
